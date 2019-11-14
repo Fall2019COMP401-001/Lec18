@@ -5,8 +5,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Observable;
 
-import lec18.v4.Song;
-
 
 /**
  * Represents an ordered playlist of Song objects
